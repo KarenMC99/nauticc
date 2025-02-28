@@ -31,3 +31,9 @@
 [22:50:01] [Server thread/INFO]: Done (12.184s)! For help, type "help"
 [22:50:01] [Server thread/INFO]: Timings Reset
 [22:50:01] [Server thread/INFO]: Unknown command. Type "/help" for help.
+[23:12:24] [User Authenticator #0/INFO]: UUID of player KarenMC4 is 136a8945-32c1-3e04-b7ee-1e61d29d1847
+[23:12:24] [Server thread/INFO]: KarenMC4 joined the game
+[23:12:24] [Server thread/INFO]: KarenMC4[/127.165.87.77:38185] logged in with entity id 466 at ([world]22.5, 74.0, -72.5)
+[23:14:02] [Server thread/INFO]: Made KarenMC4 a server operator
+[23:14:10] [Server thread/INFO]: KarenMC4 issued server command: /gamemode creative
+[23:14:10] [Server thread/INFO]: [KarenMC4: Set own game mode to Creative Mode]
